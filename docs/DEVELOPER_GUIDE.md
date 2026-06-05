@@ -6,8 +6,8 @@ An interactive analytics and Root Cause Analysis (RCA) assistant for process min
 ### Key capabilities
 - Natural‑language Q&A about your semantic model (Non‑SQL)
 - Automated Text‑to‑SQL with result tables and smart chart suggestions (SQL)
-- Live RCA: on‑the‑spot statistical correlation analysis with LLM explanations
-- Deep RCA: use precomputed association‑rule mining outputs, LLM‑interpreted
+- Single-factor RCA / Live RCA: on‑the‑spot statistical correlation analysis with LLM explanations
+- Multi-factor RCA / Deep RCA: use precomputed association‑rule mining outputs, LLM‑interpreted
 - Save and share generated queries and charts
 
 ---
