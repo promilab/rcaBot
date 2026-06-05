@@ -2,7 +2,7 @@
 
 **What it is**: A Streamlit chat app that lets business users explore process mining data and run Root Cause Analysis (RCA) using Snowflake + LLMs.
 
-This guide covers how to run the full system as an end user, including the one‑time precomputation (Deep‑RCA) and how to start the app. If you only want Live‑RCA and SQL/Non‑SQL answers, you can skip the precompute step (see Quick Mode below).
+This guide covers how to run the full system as an end user, including the one‑time precomputation Deep‑RCA (Multi-factor RCA) and how to start the app. If you only want Live‑RCA (Single-factor RCA) and SQL/Non‑SQL answers, you can skip the precompute step (see Quick Mode below).
 
 ### Prerequisites
 - Complete the setup in `README.md` (Python env, Snowflake connection, database/schema, model access)
