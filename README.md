@@ -14,5 +14,5 @@ For reviewers: Please use the login credentials provided in the submitted paper!
 
 ## Documentation
 
+- **[Expert_Interview_Transkripts](./Expert_Interview_Transkripts)** - Transcripts of the expert interviews
 - **[docs/DEVELOPER_GUIDE.md](./docs/DEVELOPER_GUIDE.md)** - Architecture and system design
-- **[docs/USER_GUIDE.md](./docs/USER_GUIDE.md)** - End‑user guide (run commands & quick mode)
