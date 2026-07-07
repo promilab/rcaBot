@@ -1,20 +1,7 @@
 # mpmX RCA Bot
 
-This is the accompanying repository to the paper: "A Framework for Conversational Root Cause Analysis in Process Mining".
-The repository contains information on how to access the implemented framework in mpmX, as well as additional informatin regarding the implementation. 
-
-## Access to the Demo of the Framework
-
-Use one of the following links to access the demo:
-- for the Purchase-2-Pay process: **[https://rca-bot-industry.work01.mpmx.dev/](https://rca-bot-industry.work01.mpmx.dev/)**
-- for the manufacturing process: **[https://rca-bot-p2p.work01.mpmx.dev/](https://rca-bot-p2p.work01.mpmx.dev/)**
-
-***For reviewers: Please use the login credentials provided in the submitted paper!***
-
-Please notice:
-- wording in the demo slighty differs from the paper: Live RCA (in the demo) refers to Single-factor RCA (in the paper) and Deep RCA (in the demo) refers to Multi-factor RCA (in the paper) 
-- event logs are already uploaded for each demo
-- you will be logged out of the demo automatically after a session has been inactive for some time
+This is the accompanying repository to the paper: "AI-augmented Root Cause Analysis in Process Mining".
+The repository contains an overview of generated responses from the implemented prototype, technical details on the implementation and the transcripts of the expert interviews. 
 
 
 ## Documentation
